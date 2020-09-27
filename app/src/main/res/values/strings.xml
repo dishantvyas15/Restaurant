@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="title">Restaurant</string>
+    <string name="hint_3">Enter item 3</string>
+    <string name="hint_2">Enter item 2</string>
+    <string name="hint_1">Enter item 1</string>
+    <string name="placeOrder">Place Order</string>
+</resources>
